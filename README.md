@@ -49,8 +49,8 @@ The script generates the following visualizations:
 - Bar Chart of Mean Grades per Subject: Displays the average score of each subject across semesters.
 - Line Chart of Overall Mean Grades per Semester: Illustrates the trend of overall average grades for each semester.
 - Visualizations are saved as PNG files:
-    1. semester_means.png
-    2. overall_mean_per_semester.png
+    - semester_means.png
+    - overall_mean_per_semester.png
 
 
 ## Output Files
